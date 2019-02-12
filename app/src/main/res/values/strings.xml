@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WeekCalendar</string>
+
+
+    <string name="txt_sun">일</string>
+    <string name="txt_mon">월</string>
+    <string name="txt_tue">화</string>
+    <string name="txt_wed">수</string>
+    <string name="txt_thu">목</string>
+    <string name="txt_fri">금</string>
+    <string name="txt_sat">토</string>
+</resources>
